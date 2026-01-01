@@ -1,4 +1,4 @@
-# COMPUTAÇÃO DIVERTIDA
+# COMPUTAÇÃO DIVERTIDA : Floresta Encantada
 
 Computação Divertida é um jogo de tabuleiro educativo ambientado em um universo fantástico dividido entre dois territórios rivais. O objetivo principal das equipes é capturar a bandeira inimiga; para isso, é necessário reconstruir a ponte que separa as regiões, tarefa que depende da conclusão de missões dadas pelos personagens do jogo.
 
